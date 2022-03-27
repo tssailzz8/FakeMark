@@ -1,0 +1,17 @@
+{
+  "Author": "",
+  "Name": "FakeMark",
+  "PunchFakeMark": "FakeMark",
+  "Description": "FakeMark",
+  "IconUrl": "",
+  "ImageUrls": [
+    ""
+  ],
+  "RepoUrl": "",
+  "InternalName": "FakeMark",
+  "AssemblyVersion": "",
+  "ApplicableVersion": "any",
+  "DalamudApiLevel": 5,
+  "LoadPriority": 0,
+  "Changelog": "Updated for API5"
+}
