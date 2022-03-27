@@ -1,3 +1,4 @@
 在玩家头上用图片
+
 todo：在所有actor上可以使用图片
 相关做法，使用drawobject的偏移然后找到玩家头顶最高点，使用新的worldtoscreen让z+1实现
